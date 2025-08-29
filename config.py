@@ -20,7 +20,7 @@ EVALOP = list(map(int, getenv("EVALOP", "7664877346").split()))
 
 # Vars For API End Pont.
 YTPROXY_URL = getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com') ## E.G https://yt.okflix.
-YT_API_KEY = getenv("YT_API_KEY", None )
+YT_API_KEY = getenv("xbit_ITDG1I6JWQWB7OQUFA7868", None )
 
 # ───── Mongo & Logging ───── #
 MONGO_DB_URI = getenv("MONGO_DB_URI")
